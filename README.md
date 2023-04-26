@@ -49,5 +49,5 @@ valuable resource for anyone interested in learning more about microblogging and
 building a customized solution
 
 project team
-https://github.com/Mihaillo29
+https://github.com/Mihaillo29 <br>
 https://github.com/Tejalhatt
