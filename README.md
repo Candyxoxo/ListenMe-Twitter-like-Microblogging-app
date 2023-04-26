@@ -48,6 +48,6 @@ I hope that this project will serve as a
 valuable resource for anyone interested in learning more about microblogging and the process of 
 building a customized solution
 
-project team
+project team <br>
 https://github.com/Mihaillo29 <br>
 https://github.com/Tejalhatt
